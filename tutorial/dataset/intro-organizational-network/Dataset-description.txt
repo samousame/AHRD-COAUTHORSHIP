@@ -1,0 +1,24 @@
+Network 8-11: Intra-organisational networks
+
+This dataset contains four networks are intra-organizational networks. Two are from a consulting company (46 employees) and two are from a research team in a manufacturing company (77 employees). These networks was used by Cross and Parker (2004).
+
+In the first network, the ties are differentiated on a scale from 0 to 5 in terms of frequency of information or advice requests (“Please indicate how often you have turned to this person for information or advice on work-related topics in the past three months”). 0: I Do Not Know This Person; 1: Never; 2: Seldom; 3: Sometimes; 4: Often; and 5:Very Often.
+
+    Weighted static one-mode network: tnet-format; UCINET-format
+
+In the second network, ties are differentiated in terms of the value placed on the information or advice received (“For each person in the list below, please show how strongly you agree or disagree with the following statement: In general, this person has expertise in areas that are important in the kind of work I do.”). The weights in this network is also based on a scale from 0 to 5. 0: I Do Not Know This Person; 1: Strongly Disagree; 2: Disagree; 3: Neutral; 4: Agree; and 5: Strongly Agree.
+
+    Weighted static one-mode network: tnet-format; UCINET-format
+
+In the third network, the ties among the researchers are differentiated in terms of advice (“Please indicate the extent to which the people listed below provide you with information you use to accomplish your work”). The weights are based on the following scale: 0: I Do Not Know This Person/I Have Never Met this Person; 1: Very Infrequently; 2: Infrequently; 3: Somewhat Infrequently; 4: Somewhat Frequently; 5: Frequently; and 6: Very Frequently.
+
+    Weighted static one-mode network: tnet-format; UCINET-format
+
+The fourth network is based on the employees’ awareness of each others’ knowledge and skills (“I understand this person’s knowledge and skills. This does not necessarily mean that I have these skills or am knowledgeable in these domains but that I understand what skills this person has and domains they are knowledgeable in”). The weight scale in this network is: 0: I Do Not Know This Person/I Have Never Met this Person; 1: Strongly Disagree; 2: Disagree; 3: Somewhat Disagree; 4: Somewhat Agree; 5: Agree; and 6: Strongly Agree.
+
+    Weighted static one-mode network: tnet-format; UCINET-format
+
+In addition to the relational data, the dataset also contains information about the people (nodal attributes). The following attributes are known for the consultancy firm: the organisational level (1 Research Assistant; 2: Junior Consultant; 3: Senior Consultant; 4: Managing Consultant; 5: Partner), gender (1: male; 2: female), region (1: Europe; 2: USA), and location (1: Boston; 2: London; 3: Paris; 4: Rome; 5: Madrid; 6: Oslo; 7: Copenhagen).
+
+For the researchers in the manufacturing company, the following attributes are known: location (1: Paris; 2: Frankfurt; 3: Warsaw; 4: Geneva), tenure (1: 1-12 months; 2: 13-36 months; 3: 37-60 months; 4: 61+ months) and the organisational level (1: Global Dept Manager; 2: Local Dept Manager; 3: Project Leader; 4: Researcher).
+Cross, R., Parker, A., 2004. The Hidden Power of Social Networks. Harvard Business School Press, Boston, MA.

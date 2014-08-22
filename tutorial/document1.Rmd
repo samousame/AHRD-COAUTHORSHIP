@@ -1,0 +1,26 @@
+---
+title: "Co-Authorship in AHRD Journals"
+author: "Chad (Chungil Chae)"
+date: "June 20, 2014"
+output: pdf_document
+---
+
+AHRD 저널들의 Co-authorshi 네트워크와 관련하여 시행순서에 대해 명시합니다.
+
+Co-authorship의 네트워크 분석에 대한 순서입니다.
+- 1. 데이터 추출
+- 2. 데이터 변환
+- 3. 네트워크분석
+- 4. 시각화
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
